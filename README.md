@@ -20,9 +20,9 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=kevvvvvvvvvv&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kevvvvvvvvvv&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,,cpp,css,discord,github,html,java,js,linux,mysql,nextjs,py,vscode,c,laravel,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,,cpp,css,discord,github,html,java,js,linux,mysql,py,vscode,c,laravel,bootstrap,pr,replit,gmail&perline=14" />
   </a>
 </p>
 
@@ -66,9 +66,5 @@
 [![](https://visitcount.itsvg.in/api?id=kevvvvvvvvvv&label=&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
   
 </div>
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=kevvvvvvvvvv&label=&color=1&icon=5&pretty=true" />
-</a>
 
 ----------------------------------------------------------------------
