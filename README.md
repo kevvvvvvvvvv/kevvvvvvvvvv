@@ -10,7 +10,6 @@
 - I am currently learning **WEB programming.**
 - I have been interested in competitive programming. So, I have been solving some problems using C++.
 - I have an intermediate English level.
-- Feel free to contact me **kevinyahirt@gmail.com**
 
 
 <!--- stats & Trophy (start) -->
