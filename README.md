@@ -1,7 +1,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi , I'm Kevin</h1></summary>
+    <summary><h1 style="display: inline-block">HI</h1></summary>
   </ul>
 </div>
 
@@ -74,7 +74,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect with me</h2></summary>
+    <summary><h2 style="display: inline-block">CONNECT WITH ME</h2></summary>
   </ul>
 </div>
 
