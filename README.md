@@ -25,13 +25,49 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies that I have been using</h2></summary>
+    <summary><h2 style="display: inline-block">PROGRAMMING LANGUAGES</h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=cpp,css,html,java,js,mysql,py,ts,php&perline=14" />
+    </a>
+</p>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">FRAMEWORKS AND LIBRARIES</h2></summary>
   </ul>
 </div>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,github,html,java,js,linux,mysql,py,vscode,c,laravel,bootstrap,pr,replit,gmail,php&perline=14" />
+    <img src="https://skillicons.dev/icons?i=laravel,react,bootstrap,tailwind&perline=14" />
+  </a>
+</p>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">DEVOPS AND INFRASTRUCTURE </h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,nginx,linux&perline=14" />
+  </a>
+</p>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">DEVELOPMENT TOOLS AND VERSION CONTROL</h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=14" />
   </a>
 </p>
 
@@ -44,8 +80,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/trinidad-medina-kevin-yahir/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/kevin_trimeed/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-
 </p>
 
 
